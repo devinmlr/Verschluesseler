@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Kryptograph
+comment1.params=klar
+comment1.target=java.lang.String\ caeser(java.lang.String)
+comment2.params=klar
+comment2.target=java.lang.String\ vigenere(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getFak()
+numComments=4
